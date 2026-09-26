@@ -1,0 +1,12 @@
+# Kredencialai — niekada necommitinti (žr. CLAUDE.md taisyklę #12)
+*.env
+gmail_credentials*.env
+!gmail_credentials_template.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
