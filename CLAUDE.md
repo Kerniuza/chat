@@ -42,8 +42,8 @@ Svetainių **tobulinimo** paslaugos esamiems e-shopams — NE naujų svetainių 
 1. **Niekada neminėti įmonės/verslo laiškuose.** Laiškai rašomi kaip privataus asmens, pasirašomi tik "Kernius Zigmantas". Jokio "SiteSolvo", jokios kainos, jokio telefono, jokios svetainės nuorodos klientui skirtame laiške (išskyrus portfolio nuorodas, žr. #4).
 2. **Kiekvienas trūkumas laiške privalo būti realiai patikrintas** gyvoje svetainėje/HTML prieš rašant — niekada nesugalvoti, niekada "papildyti" skaičių dirbtinai. Geriau parašyti mažiau patikrintų nei daugiau su spėjimais (precedentas: 50→35 partijoje #2).
 3. **Tikslinės platformos: TIK WordPress/WooCommerce arba OpenCart.** Platforma patvirtinama iš `wp-content`/`woocommerce` arba `index.php?route=`/`catalog/view/theme` žymių gyvame HTML. Kita — atmesti, nesvarbu kokie trūkumai.
-4. **Portfolio (nuo partijos 3): tikslios 5 nuorodos, tik jos:**
-   `https://siuvimomanija.lt`, `https://elna.lt`, `https://babylock.lt`, `https://husqvarna-viking.lt` (**su brūkšneliu — būtinai**; `husqvarnaviking.lt` neveikia), `https://siuvimomasina.lt`.
+4. **Portfolio (nuo partijos 3): tikslios 6 nuorodos, tik jos:**
+   `https://siuvimomanija.lt`, `https://elna.lt`, `https://babylock.lt`, `https://husqvarna-viking.lt` (**su brūkšneliu — būtinai**; `husqvarnaviking.lt` neveikia), `https://siuvimomasina.lt`, `https://juki.lv` (pridėta 2026-09-26; konkrečių, atskirai patikrintų teiginių apie darbus čia dar nėra — žr. leidžiamus teiginius žemiau, kol vartotojas nepapildys).
    Rėmas: šios svetainės priklauso **giminaičio verslui** (laiškuose "giminaičio", NIEKADA "tėčio" — tas žodis vartojamas tik Segris sąskaitos temoje su tėčio įmone). Leidžiami teiginiai (TIK šie, kitų negalvoti): siuvimomanija.lt buvo ~2010 m. OpenCart, atnaujinta; automatinis siuntimo kainos skaičiavimas įdiegtas; mokėjimas kortele veikia sklandžiai; SEO, dėl kurio viena svetainė rodosi beveik pirma Google.
 5. **"Big job" laiškai NIEKADA neįvardija kainos.** Vietoj to — pasiūlymas atlikti pilną apžiūrą ir paruošti planą, "be konkretaus skaičiaus dabar, kol nepažiūrėjau atidžiau".
 6. **Tonas: kaip rašo žmogus, ne AI/rinkodara.** Be sąrašų, be paryškintų antraščių/emoji, be "korporatyvinio" žodingumo. Paprasti sakiniai, teisinga gramatika, bet nekonstruotas. Vartotojo žodžiais: "rasyk kaip zmogus per zinute raso", "buk pohuistas".
@@ -67,7 +67,7 @@ Sveiki,
 
 Naršydamas užtikau jūsų parduotuvę [domain] ir pastebėjau, kad [KONKRETUS PATIKRINTAS TRŪKUMAS]. Tikriausiai smulkmena, kurios niekas nepastebėjo, bet [pasekmė].
 
-Aš jau kurį laiką tvarkau kelias parduotuves – jos priklauso mano giminaičio verslui, ir aš juo rūpinuosi. Štai keletas iš jų, jei norėtum pasižiūrėti: https://siuvimomanija.lt, https://elna.lt, https://babylock.lt, https://husqvarna-viking.lt, https://siuvimomasina.lt. Siuvimomanija.lt anksčiau veikė ant maždaug 2010 metų OpenCart versijos – aš ją atnaujinau, kad viskas atrodytų tvarkingai ir veiktų kaip reikia. Be to sutvarkiau automatinį siuntimo kainos skaičiavimą, kad kainą paskaičiuoja pati sistema, o ne žmogus ranka, sutvarkiau, kad mokėjimas kortele veiktų sklandžiai, ir padariau SEO darbus, dėl kurių viena iš svetainių dabar Google paieškoje rodosi beveik pirma.
+Aš jau kurį laiką tvarkau kelias parduotuves – jos priklauso mano giminaičio verslui, ir aš juo rūpinuosi. Štai keletas iš jų, jei norėtum pasižiūrėti: https://siuvimomanija.lt, https://elna.lt, https://babylock.lt, https://husqvarna-viking.lt, https://siuvimomasina.lt, https://juki.lv. Siuvimomanija.lt anksčiau veikė ant maždaug 2010 metų OpenCart versijos – aš ją atnaujinau, kad viskas atrodytų tvarkingai ir veiktų kaip reikia. Be to sutvarkiau automatinį siuntimo kainos skaičiavimą, kad kainą paskaičiuoja pati sistema, o ne žmogus ranka, sutvarkiau, kad mokėjimas kortele veiktų sklandžiai, ir padariau SEO darbus, dėl kurių viena iš svetainių dabar Google paieškoje rodosi beveik pirma.
 
 Jei būtų įdomu, galėčiau pažiūrėti atidžiau ir pasakyti, ką verta taisyti pirmiausia – be jokių įsipareigojimų.
 
@@ -83,7 +83,7 @@ Hi,
 
 While browsing I came across your shop [domain] and noticed that [SPECIFIC VERIFIED FLAW]. [natural consequence].
 
-I've been taking care of a few online shops for a while now - they belong to a relative of mine who runs a business, and I handle the sites for him. A few examples if you want to take a look: https://siuvimomanija.lt, https://elna.lt, https://babylock.lt, https://husqvarna-viking.lt, https://siuvimomasina.lt. Siuvimomanija.lt was running on an OpenCart version from around 2010 when I started on it - I brought it up to date so it looks right and actually works properly. I also set up automatic shipping cost calculation instead of someone typing it in by hand, got card payments working smoothly, and did some SEO on one of them that now shows up basically first when you search for it.
+I've been taking care of a few online shops for a while now - they belong to a relative of mine who runs a business, and I handle the sites for him. A few examples if you want to take a look: https://siuvimomanija.lt, https://elna.lt, https://babylock.lt, https://husqvarna-viking.lt, https://siuvimomasina.lt, https://juki.lv. Siuvimomanija.lt was running on an OpenCart version from around 2010 when I started on it - I brought it up to date so it looks right and actually works properly. I also set up automatic shipping cost calculation instead of someone typing it in by hand, got card payments working smoothly, and did some SEO on one of them that now shows up basically first when you search for it.
 
 If it's of interest, I could take a closer look and tell you what's worth fixing first - no obligation at all.
 
@@ -121,7 +121,7 @@ EN: `That's not really a small thing - it looks like it'd take a proper chunk of
 ## 3. Sutarta darbo eiga (nauja partija)
 
 1. Vartotojas rašo **"nauja partija"**.
-2. Perskaityti `outreach_tracking.csv`, ištraukti visus 73 (ir toliau augantį) domenus + 5 portfolio domenus kaip EXCLUDE sąrašą.
+2. Perskaityti `outreach_tracking.csv`, ištraukti visus 73 (ir toliau augantį) domenus + 6 portfolio domenus kaip EXCLUDE sąrašą.
 3. Paleisti **tris atskirus agentus fone (LT, LV, EE)**, kiekvienam savo self-contained prompt su exclude sąrašu, platformos/kategorijos/kalbos taisyklėmis iš šio failo. **SVARBU: agentai turi naudoti TIK curl/python, NE Browser tool** — trys agentai vienu metu naudojantys tą pačią Browser pane vienas kitam sugadino navigaciją praeitą kartą (žr. §6 klaidas). Naršyklė — tik pagrindinei sesijai arba vienam agentui vienu metu.
 4. Tikslas: ~5 "big" + ~15 "quick" per dieną (vartotojo sprendimas), arba mažiau jei tiek nerandama tikrų trūkumų — geriau mažiau tikrų nei daug spėtų.
 5. Kiekvienas agentas rašo į `outreach<N>_<CC>.md` **scratchpad** kataloge griežtu formatu (žr. §4) — **BET IŠKART nukopijuoti į `~/Documents/SiteVersa/`, kai agentas baigia**, kitaip failas pradingsta kai scratchpad išvalomas (tai atsitiko su batch 5 EE failu — atkurta rankiniu būdu, žr. `outreach5_EE.md`).
@@ -145,7 +145,7 @@ Ieškok REALIŲ, dabar veikiančių lietuviškų (.lt) WordPress/WooCommerce arb
 
 "Big" (tikslas ~1-2): RIMTOS, sisteminės, patikrinamos problemos, kurias sutvarkyti užimtų savaites/mėnesius — visiškai nėra HTTPS (patikrinti realų schema/sertifikatą), aiškiai sena neatnaujinta platforma, sugedęs krepšelis/checkout visame puslapyje, arba katalogo lygio duomenų korupcija (imti 10-15 prekių, skaičiuoti tik jei pusė+). Vienas-du izoliuoti dalykai NĖRA "big".
 
-JAU KONTAKTUOTA — NEKONTAKTUOTI šitų domenų (žr. outreach_tracking.csv pilną sąrašą; įklijuoti visus). Taip pat NIEKADA nekontaktuoti portfolio svetainių: siuvimomanija.lt, elna.lt, babylock.lt, husqvarna-viking.lt, siuvimomasina.lt.
+JAU KONTAKTUOTA — NEKONTAKTUOTI šitų domenų (žr. outreach_tracking.csv pilną sąrašą; įklijuoti visus). Taip pat NIEKADA nekontaktuoti portfolio svetainių: siuvimomanija.lt, elna.lt, babylock.lt, husqvarna-viking.lt, siuvimomasina.lt, juki.lv.
 
 Rasti realų publikuotą kontaktinį el. paštą (footer/kontaktų puslapis) — jei nerasta, kandidatą mesti.
 
@@ -173,7 +173,7 @@ LV/EE versijos skiriasi tik: šalies kodas, kalba (LANGUAGE: emails in ENGLISH),
 
 ## 5. Dabartinė būsena (2026-09-26)
 
-**73 laiškai išsiųsti** 4 partijomis (6+35+25+7). Autoritetingas žurnalas: `outreach_tracking.csv` (patikrinti/pataisyti 2026-09-26 — anksčiau turėjo neteisingai formatuotą eilutę tehnikajums.lv ir pasenusią e.segris.lt būseną; abu ištaisyti). Šalys: LT 23 · LV 30 · EE 20. Kategorijos: quick 66 · big 7. Do-not-contact sąrašas = visos 73 eilutės CSV faile + 5 portfolio domenai.
+**73 laiškai išsiųsti** 4 partijomis (6+35+25+7). Autoritetingas žurnalas: `outreach_tracking.csv` (patikrinti/pataisyti 2026-09-26 — anksčiau turėjo neteisingai formatuotą eilutę tehnikajums.lv ir pasenusią e.segris.lt būseną; abu ištaisyti). Šalys: LT 23 · LV 30 · EE 20. Kategorijos: quick 66 · big 7. Do-not-contact sąrašas = visos 73 eilutės CSV faile + 6 portfolio domenai.
 
 **2 atsakymai iš 73 (2.7%):**
 
