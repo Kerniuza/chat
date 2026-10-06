@@ -25,6 +25,8 @@ Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuv
 
 Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
+Jei sudominau ir norėtumėte svetainėje pakeisti ar padaryti dar ką nors, tiesiog parašykite. Darau beveik viską, ko reikia parduotuvei: SEO, daug prekių sukėlimą iš tiekėjo failų ar kitos svetainės, dizaino atnaujinimą, mokėjimų ir siuntimo prijungimą ir panašiai.
+
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
 Kernius Zigmantas
