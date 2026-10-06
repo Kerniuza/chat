@@ -111,6 +111,14 @@ def main():
 
     gmail_address = os.environ.get("GMAIL_ADDRESS")
     gmail_password = os.environ.get("GMAIL_APP_PASSWORD")
+    cred_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "gmail_credentials.env")
+    if (not gmail_address or not gmail_password) and os.path.exists(cred_file):
+        for line in open(cred_file, encoding="utf-8"):
+            k, _, v = line.strip().partition("=")
+            if k == "GMAIL_ADDRESS" and not gmail_address:
+                gmail_address = v.strip().strip('"')
+            elif k == "GMAIL_APP_PASSWORD" and not gmail_password:
+                gmail_password = v.strip().strip('"')
     if not gmail_address or not gmail_password:
         sys.exit("STOP: nenustatyti GMAIL_ADDRESS / GMAIL_APP_PASSWORD aplinkos kintamieji.")
 
