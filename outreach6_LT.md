@@ -15,17 +15,15 @@ Prieš siunčiant: importuoti pilną `outreach_tracking.csv` (DNC), nustatyti GM
 ```
 Laba diena,
 
-Esu Kernius Zigmantas, taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
+Esu Kernius Zigmantas. Junior Achievement mokinių programoje kuriu savo startuolį SiteSolvo – taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
 
-Peržiūrėjau pyramis.lt ir pastebėjau, kad svetainės SSL sertifikatas pasibaigęs. Kas atidaro svetainę per https, tam naršyklė vietoj parduotuvės parodo įspėjimą, kad ryšys nesaugus, ir dauguma žmonių tada tiesiog uždaro langą. Per paprastą http adresą svetainė atsidaro, bet prie adreso rašoma „Nesaugi“, o paskyros prisijungimo slaptažodis siunčiamas nešifruotas. Google tokias svetaines irgi rodo žemiau paieškoje.
+Pastebėjau, kad pyramis.lt SSL sertifikatas pasibaigęs. Naršyklė rodo įspėjimą, kad svetainė nesaugi, todėl dalis pirkėjų išeina, o prisijungimo slaptažodžiai siunčiami nešifruoti.
 
-Įdiegčiau naują, automatiškai atsinaujinantį sertifikatą ir nukreipčiau visą svetainę į https. Tai viena diena, kaina 80–120 € + PVM.
+Siūlau įdiegti naują sertifikatą ir nukreipti visą svetainę į saugų https. Darbas užtruktų dieną, kaina 80–120 € + PVM.
 
-Ką esu padaręs: siuvimomanija.lt – atnaujinau seną OpenCart ir automatinį siuntimo kainos skaičiavimą, e.segris.lt – naujas dizainas telefonams, SSL ir virš 200 prekių. Taip pat prižiūriu husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Esu atnaujinęs siuvimomanija.lt, e.segris.lt padaręs naują dizainą ir SSL, prižiūriu husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Darau ir SEO, prekių kėlimą, dizaino atnaujinimą.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
-
-Jei norėtumėte dar ko nors, parašykite: darau ir SEO, prekių sukėlimą iš tiekėjų failų, dizaino atnaujinimą, mokėjimų ir siuntimo prijungimą.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
