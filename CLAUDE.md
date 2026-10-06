@@ -23,6 +23,20 @@ Bendrauk su vartotoju lietuviškai. Vartotojas — Kernius Zigmantas, vienas žm
 
 ---
 
+## NAUJOS LAIŠKŲ TAISYKLĖS (2026-10-06, galioja virš §1–§2, kur skiriasi)
+
+Vartotojas pakeitė outreach strategiją (LT partijos nuo #6):
+- **Tik LT įmonės, tik lietuviškai.** Platforma tik WP/WooCommerce ir OpenCart (stiprybė — senas OpenCart 1.5.x/2.x).
+- **Kaina laiške RAŠOMA** kaip intervalas „X–Y € + PVM“ (viena klaida 50–150; kelios/telefono versija 100–250; HTTPS/SSL 50–120; integracija 150–300; dizaino atnaujinimas 250–600; didelis darbas „preliminariai nuo X € + PVM“; prekių kėlimas — kainos nespėti; priežiūra 20–30 €/mėn, jei tinka). Ne „pigiai“, ne „nuolaida“.
+- **Portfolio vadinamas „tėčio verslo“ svetainėmis** (ne „giminaičio“): siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt, juki.lv.
+- **Galima minėti klientą e.segris.lt** (medžioklės prekės): sena OpenCart 1.5, naujas modernus telefonams pritaikytas dizainas nekeičiant sistemos, SSL, 200+ prekių (Hikmicro, Nocpix, Work Sharp) su LT aprašymais/nuotraukomis/video, SEO, prekės susietos su priedais, naujienų slaideris. **Kiek mokėjo — niekada neminėti.**
+- **Galima minėti SiteSolvo ir Junior Achievement:** SiteSolvo — vartotojo idėja Junior Achievement (jaunimo startuolių programos) rėmuose. **Įmonės dar neturi.** PVM sąskaitą faktūrą išrašo **UAB Siuvimo Manija** (tėčio įmonė) kaip IT konsultacijas/paslaugas — taip jau buvo išrašyta Segriui. Laiške formuluoti sąžiningai: „sąskaitą faktūrą su PVM išrašome per Siuvimo Maniją kaip IT paslaugas“, nesakyti „mano įmonė“.
+- Mokėjimas dalimis: paprastai 50 % avansu, likutis kai darbas atliktas ir klientas patikrino.
+- Laiško struktūra: trūkumas su konkrečia detale → kodėl svarbu verslui (1–2 sak.) → ką padaryčiau, per kiek laiko, už kiek → kas aš (tėčio svetainės + Segris) → PVM sąskaita ir mokėjimas dalimis → švelnus kvietimas (trumpas planas/ekrano nuotrauka) → „Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.“ → „Kernius Zigmantas“. 120–200 žodžių, „Laba diena,“/„Sveiki,“, „Jūs“ forma, be šauktukų/sąrašų/emoji/HTML. Draudžiami AI žodžiai: „skaitmeninis buvimas“, „sprendimai“, „inovatyvus“, „efektyvus“, „sklandus vartotojo patyrimas“, „optimizuoti jūsų verslą“, „nedvejodami kreipkitės“, „džiaugčiausi galimybe“, „esu įsitikinęs“, „kelti į naują lygį“.
+- **Prieš kiekvieną siuntimą parodyti vartotojui bent vieną (geriau 2–3) pilną laišką** — jis tikrina, ar neskamba kaip AI. Siųsti tik po „siųsk“. Maks. 30/d., 8–10 s pertrauka, `formataddr(("Kernius Zigmantas", GMAIL_ADDRESS))`.
+- Atsakymus gavus — nieko nesiųsti pačiam, parodyti vartotojui su atsakymo juodraščiu. Prašantiems nebe rašyti — CSV status `do_not_contact`.
+- Siuntimo scriptas: `mac_bundle/send_batch_lt.py` (dry run be `--send`, DNC tikrinimas iš CSV, CSV papildymas).
+
 ## 0. Kas parduodama (SiteSolvo)
 
 Svetainių **tobulinimo** paslaugos esamiems e-shopams — NE naujų svetainių kūrimas nuo nulio:
