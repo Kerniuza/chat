@@ -15,15 +15,15 @@ Prieš siunčiant: importuoti pilną `outreach_tracking.csv` (DNC), nustatyti GM
 ```
 Laba diena,
 
-Žiūrėjau Pyramis plautuves ir užėjau į pyramis.lt. Atidarius svetainę per https, naršyklė meta įspėjimą, kad sertifikatas pasibaigęs. Per paprastą http ji atsidaro, bet su užrašu „Nesaugi“, ir per tą patį nešifruotą ryšį keliauja ir paskyros prisijungimas su slaptažodžiu. Tokiame puslapyje nemažai žmonių nieko neperka, o Google tokias svetaines rodo žemiau.
+Esu Kernius Zigmantas, taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
 
-Įdiegčiau naują sertifikatą, kuris atsinaujintų pats, ir nukreipčiau visą svetainę į https. Tai viena darbo diena, kaina 80–120 € + PVM. Parduotuvė veikia ant OpenCart 1.5, su šia versija esu daug dirbęs, tad sistemos keisti nereikėtų.
+Peržiūrėjau pyramis.lt ir pastebėjau, kad svetainės sertifikatas pasibaigęs, todėl naršyklė rodo įspėjimą arba užrašą „Nesaugi“. Per tą nešifruotą ryšį siunčiamas ir prisijungimo slaptažodis. Tokioje svetainėje dalis žmonių nieko neperka, o Google ją rodo žemiau.
 
-Apie save trumpai. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir jau du metus dirbu tėčio įmonėje, kur tvarkau jos parduotuves: siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt, kuris irgi veikia ant OpenCart 1.5, įdiegiau SSL ir padariau naują dizainą telefonams, sistemos nekeisdamas.
+Galiu įdiegti naują, automatiškai atsinaujinantį sertifikatą ir nukreipti visą svetainę į https. Tai viena diena, kaina 80–120 € + PVM.
 
-Sąskaitą faktūrą su PVM išrašome per tėčio įmonę UAB Siuvimo Manija. Pusę galima mokėti prieš darbą, likutį, kai viskas padaryta ir patikrinta.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt, kuris irgi veikia ant OpenCart 1.5, padariau naują dizainą telefonams ir įdiegiau SSL, sistemos nekeisdamas.
 
-Jei įdomu, atsiųsiu trumpą planą.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -42,15 +42,15 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Ieškojau kieto kuro katilų ir užėjau į raisantas.lt. Viršutiniame meniu paspaudus „Kieto kuro katilai“, atsidaro „Produktų kategorija nerasta!“. Taip pat neveikia „Anglies pluošto šildymo kilimėliai“, „Skysto kuro katilai“ ir „Infraraudonųjų spindulių šildytuvai“. Dabar kaip tik šildymo sezonas, o žmogus, radęs tuščią puslapį, dažnai tiesiog išeina.
+Mano vardas Kernius Zigmantas, tvarkau el. parduotuves ant OpenCart ir WordPress. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir jau du metus dirbu su svetainėmis tėčio įmonėje.
 
-Jei norite patys: tie punktai rodo į ištrintą kategoriją (adrese path=0), užtenka juos perrišti į esamas. Jei nėra kada, sutvarkyčiau per dieną už 50–100 € + PVM. Kadangi parduotuvė veikia ant OpenCart 1.5, vėliau galėčiau ir atnaujinti dizainą, kad gerai atrodytų telefone, sistemos nekeičiant, tai būtų 250–600 € + PVM.
+Peržiūrėjau raisantas.lt ir pastebėjau, kad keli meniu punktai, pvz. „Kieto kuro katilai“, „Skysto kuro katilai“ ir „Anglies pluošto šildymo kilimėliai“, atidaro „Produktų kategorija nerasta!“. Šildymo sezono metu tai kaip tik tos prekės, kurių žmonės ieško.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau jos svetaines: siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Siuvimomanija.lt anksčiau veikė ant maždaug 2010 m. OpenCart, ją atnaujinau.
+Meniu sutvarkyčiau per dieną už 50–100 € + PVM. Jei norėtumėte, galiu ir atnaujinti dizainą, kad parduotuvė gerai atrodytų telefone, nekeičiant OpenCart sistemos, tai 250–600 € + PVM.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis: pusę prieš darbą, likutį po patikrinimo.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt, kuris irgi veikia ant OpenCart 1.5, padariau naują dizainą telefonams ir įdiegiau SSL, sistemos nekeisdamas.
 
-Jei įdomu, parašykite, atsiųsiu sąrašą, ką dar pastebėjau.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -69,15 +69,15 @@ Kernius Zigmantas
 ```
 Sveiki,
 
-Užėjau į enbaterija.lt per telefoną ir pastebėjau, kad rodoma pilna kompiuterio versija, tik sumažinta, todėl tekstą ir mygtukus tenka didinti pirštais. Įdomiausia, kad jūsų temoje mobili versija yra, tik ji neįsijungia, nes puslapio antraštėje trūksta vadinamosios viewport eilutės. Dabar didžioji dalis pirkėjų ateina iš telefono, ir patogumas jiems daug lemia.
+Esu Kernius Zigmantas, užsiimu el. parduotuvių taisymu ir atnaujinimu. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir turiu dvejų metų darbo patirtį tėčio įmonėje.
 
-Kartais užtenka tą eilutę įdėti į header.tpl, bet dažniausiai po to dar reikia sutvarkyti kelias vietas, kurios telefone išsilieja. Padaryčiau viską ir patikrinčiau keliuose telefonuose per 1–2 dienas, kaina 100–250 € + PVM.
+Peržiūrėjau enbaterija.lt ir pastebėjau, kad telefone rodoma sumažinta kompiuterio versija, tekstą ir mygtukus tenka didinti pirštais. Mobili versija jūsų temoje yra, tik neįsijungia, nes puslapio kode trūksta vienos eilutės. Dabar dauguma pirkėjų ateina iš telefono.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, kur prižiūriu siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt, kuris kaip ir jūsų parduotuvė veikia ant OpenCart 1.5, padariau naują, telefonams pritaikytą dizainą, sistemos nekeisdamas.
+Tai sutvarkyčiau ir patikrinčiau keliuose telefonuose per 1–2 dienas, kaina 100–250 € + PVM.
 
-Sąskaitą faktūrą su PVM išrašome per tėčio įmonę UAB Siuvimo Manija. Pusę galima mokėti prieš darbą, likutį, kai viskas veiks.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt, kuris irgi veikia ant OpenCart 1.5, padariau naują dizainą telefonams ir įdiegiau SSL, sistemos nekeisdamas.
 
-Jei norite, atsiųsiu ekrano nuotrauką, kaip tai atrodo telefone.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -96,15 +96,15 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Naršydamas balticmobiles.lt pastebėjau keistą dalyką. Meniu „Mobilieji telefonai“ paspaudus „Blackview“, rašo „Rodoma nuo 1 iki 102 iš 872“, bet sąraše vien Apple iPhone, nė vieno Blackview. O Blackberry, Asus, Microsoft ir eStar kategorijos visai tuščios. Žmogus, ieškantis konkretaus gamintojo, tokiu atveju greičiausiai eina pirkti kitur.
+Esu Kernius Zigmantas, taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
 
-Greičiausiai Blackview kategorijai priskirtos ne tos prekės arba sugedęs filtras, o tuščias kategorijas galima tiesiog išjungti administravime. Sutvarkyčiau per pusdienį už 50–100 € + PVM. Jei vėliau norėtumėte daugiau, parduotuvė veikia ant OpenCart 1.5, kurią galiu atnaujinti ir prižiūrėti nekeisdamas visos sistemos.
+Peržiūrėjau balticmobiles.lt ir pastebėjau, kad kategorijoje „Blackview“ rašo 872 prekės, bet rodomi vien Apple iPhone, nė vieno Blackview. Blackberry, Asus, Microsoft ir eStar kategorijos visai tuščios. Žmogus, ieškantis konkretaus gamintojo, tada eina kitur.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt sukėliau virš 200 prekių su lietuviškais aprašymais ir susiejau jas su tinkamais priedais.
+Kategorijas sutvarkyčiau per pusdienį, kaina 50–100 € + PVM.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę galima mokėti prieš darbą, likutį po patikrinimo.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, o klientui e.segris.lt sukėliau virš 200 prekių su lietuviškais aprašymais ir nuotraukomis.
 
-Jei įdomu, atsiųsiu ekrano nuotraukas.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -123,15 +123,15 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Užėjau į kosmetikavisiems.lt ir iš kodo mačiau, kad parduotuvė veikia ant OpenCart 1.5, failai datuoti 2014 metais. Šiandien ji veikia, bet tokia versija nesuderinama su naujomis PHP versijomis, o hostingai senąsias anksčiau ar vėliau išjungia. Tada parduotuvė gali tiesiog nustoti veikti, ir dažniausiai tai įvyksta netikėtai.
+Mano vardas Kernius Zigmantas, tvarkau el. parduotuves ant OpenCart ir WordPress. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir jau du metus dirbu su svetainėmis tėčio įmonėje.
 
-Smulkus dalykas, kurį galite pašalinti ir patys: temos antraštėje kraunamas skriptas iš html5shim.googlecode.com, kuris jau seniai nebeegzistuoja. Be to, puslapyje vienu metu įkeliamos dvi skirtingos jQuery versijos.
+Peržiūrėjau kosmetikavisiems.lt ir pastebėjau, kad parduotuvė veikia ant OpenCart 1.5, failai datuoti 2014 m. Tokia versija nesuderinama su naujomis PHP versijomis, o hostingai senąsias anksčiau ar vėliau išjungia. Tada parduotuvė gali tiesiog nustoti veikti.
 
-Galėčiau sutvarkyti parduotuvę taip, kad ji veiktų su nauja PHP ir gerai atrodytų telefone, nekeičiant visos sistemos ir neperkeliant prekių iš naujo. Preliminariai nuo 300 € + PVM, tikslią kainą pasakysiu peržiūrėjęs viską.
+Galėčiau ją sutvarkyti taip, kad veiktų su nauja PHP ir gerai atrodytų telefone, nekeičiant visos sistemos ir neperkeliant prekių. Preliminariai nuo 300 € + PVM, tikslią kainą pasakysiu peržiūrėjęs.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje: siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt, juki.lv. Klientui e.segris.lt, veikiančiam ant OpenCart 1.5, padariau naują dizainą telefonams, sistemos nekeisdamas.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt, kuris irgi veikia ant OpenCart 1.5, padariau naują dizainą telefonams ir įdiegiau SSL, sistemos nekeisdamas.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -150,13 +150,15 @@ Kernius Zigmantas
 ```
 Sveiki,
 
-Žiūrėjau jūsų sukneles mocca.lt ir pastebėjau, kad atidarius svetainę per https naršyklė rodo įspėjimą, jog ryšys nėra privatus. Sertifikatas išduotas ne mocca.lt, o bendras hostingo *.serveriai.lt. Per paprastą http svetainė atsidaro, bet su užrašu „Nesaugi“, ir per tą patį nešifruotą ryšį siunčiamas ir prisijungimo slaptažodis. Drabužius dažnai perka iš telefono, ir toks užrašas daug ką atbaido.
+Esu Kernius Zigmantas, užsiimu el. parduotuvių taisymu ir atnaujinimu. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir turiu dvejų metų darbo patirtį tėčio įmonėje.
 
-Dažnai hostingo valdymo skydelyje galima įjungti nemokamą Let's Encrypt sertifikatą, tai pirmas žingsnis. Po to dar reikia nukreipti visą svetainę į https ir sutvarkyti nuorodas, kad niekas nesulūžtų. Visa tai padaryčiau per dieną, kaina 80–120 € + PVM.
+Peržiūrėjau mocca.lt ir pastebėjau, kad atidarius svetainę per https naršyklė rodo įspėjimą, nes sertifikatas išduotas ne jūsų domenui, o hostingo *.serveriai.lt. Per paprastą http svetainė rodoma kaip „Nesaugi“, ir per ją siunčiamas prisijungimo slaptažodis. Toks užrašas daug pirkėjų atbaido.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Neseniai klientui e.segris.lt įdiegiau SSL ir padariau naują dizainą telefonams.
+Sutvarkyčiau sertifikatą ir nukreipčiau visą svetainę į https per dieną, kaina 80–120 € + PVM.
 
-Sąskaitą faktūrą su PVM išrašome per UAB Siuvimo Manija. Pusė prieš darbą, likutis, kai patikrinsite.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, o klientui e.segris.lt neseniai įdiegiau SSL ir padariau naują dizainą telefonams.
+
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -175,15 +177,15 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Ieškojau darbo batų ir Google rezultatuose jūsų kategorija rodoma kaip „Darbo batai Archives“. Tai WordPress paliktas angliškas žodis puslapio pavadinime. Pažiūrėjęs atidžiau pamačiau, kad svetainė veikia ant WordPress 4.9 ir WooCommerce 3.3, abiem jau apie aštuoneri metai. Tokios versijos saugumo pataisymų nebegauna, o su parduotuve tai rizika.
+Esu Kernius Zigmantas, taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
 
-Pavadinimą galite pakeisti ir patys SEO įskiepio nustatymuose, archyvų pavadinimo šablone.
+Peržiūrėjau darbobatai.lt ir pastebėjau, kad Google kategorijas rodo kaip „Darbo batai Archives“, o pati svetainė veikia ant WordPress 4.9 ir WooCommerce 3.3, kurioms apie aštuoneri metai. Saugumo pataisymų tokios versijos nebegauna.
 
-Atnaujinimą daryčiau atsargiai: pirma kopija, tada atnaujinimas atskiroje bandomojoje versijoje, patikrinimas, ar veikia krepšelis ir mokėjimai, ir tik tada perkėlimas į tikrą svetainę. Užtruktų apie savaitę, preliminariai nuo 300 € + PVM, tikslią kainą pasakysiu peržiūrėjęs. Po to galėčiau ją ir prižiūrėti už 20–30 € per mėnesį.
+Atnaujinčiau viską atsargiai, pirma bandomojoje kopijoje, patikrinčiau krepšelį ir mokėjimus, sutvarkyčiau pavadinimus. Apie savaitė, preliminariai nuo 300 € + PVM. Po to galiu prižiūrėti už 20–30 € per mėnesį.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Siuvimomanija.lt anksčiau veikė ant maždaug 2010 m. OpenCart, ją atnaujinau.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -202,15 +204,15 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Ieškojau Coronado dažų ir užėjau į dazas.lt. Parduotuvės puslapio pavadinime, kuris rodomas ir Google rezultatuose, parašyta „Elekroninė amerikietiškų Coronado Paint dažų parduotuvė“, be „t“. Tai galite pataisyti ir patys, puslapio „Parduotuvė“ SEO nustatymuose.
+Mano vardas Kernius Zigmantas, tvarkau el. parduotuves ant OpenCart ir WordPress. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir jau du metus dirbu su svetainėmis tėčio įmonėje.
 
-Rimčiau tai, kad svetainė veikia ant WordPress 5.1 iš 2019 metų, o slaideris Revolution Slider dar 4-osios versijos. Senose to įskiepio versijose yra žinomų saugumo spragų, per kurias įsilaužiama į svetaines.
+Peržiūrėjau dazas.lt ir pastebėjau, kad svetainė veikia ant WordPress 5.1 iš 2019 m., o slaideris Revolution Slider dar 4-osios versijos, kurioje yra žinomų saugumo spragų. Dar parduotuvės pavadinime, kurį rodo Google, parašyta „Elekroninė“.
 
-Atnaujinčiau WordPress, WooCommerce ir slaiderį atsargiai, pirma bandomojoje kopijoje, patikrinčiau krepšelį ir tik tada perkelčiau. Apie 3–5 dienos, preliminariai nuo 300 € + PVM, tikslią kainą pasakysiu peržiūrėjęs.
+Atnaujinčiau WordPress, WooCommerce ir slaiderį, pirma bandomojoje kopijoje, ir patikrinčiau krepšelį. Apie 3–5 dienos, preliminariai nuo 300 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, kur tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Siuvimomanija.lt anksčiau veikė ant maždaug 2010 m. OpenCart, ją atnaujinau.
 
-Sąskaitą faktūrą su PVM išrašome per UAB Siuvimo Manija. Pusę galima mokėti prieš darbą, likutį po patikrinimo.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -229,15 +231,15 @@ Kernius Zigmantas
 ```
 Sveiki,
 
-Žiūrėjau krosneles foleta.lt ir ROMOTOP LAREDO T 04 puslapyje prekės kodas rodomas kaip „HU3LG 21-1-1-1-1-1-1-1-1…“, su kelias dešimtis kartų pasikartojančiu „-1“. Tas pats yra dar keliose prekėse. Panašu, kad tai likę po prekių kopijavimo.
+Esu Kernius Zigmantas, užsiimu el. parduotuvių taisymu ir atnaujinimu. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir turiu dvejų metų darbo patirtį tėčio įmonėje.
 
-Svarbiau, kad svetainė veikia ant WordPress 5.1 ir WooCommerce 3.5 iš 2019 metų. Tokios versijos nebegauna saugumo pataisymų, o parduotuvėje su tokiomis kainomis tai nereikalinga rizika.
+Peržiūrėjau foleta.lt ir pastebėjau, kad svetainė veikia ant WordPress 5.1 ir WooCommerce 3.5 iš 2019 m., kurios nebegauna saugumo pataisymų. Dar kai kurių krosnelių, pvz. ROMOTOP LAREDO T 04, prekės kodas rodomas kaip „HU3LG 21-1-1-1-1…“ su dešimtimis „-1“.
 
-Atnaujinčiau WordPress, WooCommerce ir temą, pirma bandomojoje kopijoje, patikrinčiau, ar viskas veikia, ir sutvarkyčiau prekių kodus. Apie 3–5 dienos, preliminariai nuo 250 € + PVM, tikslią kainą pasakysiu peržiūrėjęs viską. Vėliau galėčiau prižiūrėti už 20–30 € per mėnesį.
+Atnaujinčiau sistemą bandomojoje kopijoje, patikrinčiau ir sutvarkyčiau kodus. Apie 3–5 dienos, preliminariai nuo 250 € + PVM. Vėliau galiu prižiūrėti už 20–30 € per mėnesį.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Siuvimomanija.lt anksčiau veikė ant maždaug 2010 m. OpenCart, ją atnaujinau.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis: pusę prieš, likutį po darbo.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -256,13 +258,13 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Žiūrėjau kūdikių tekstilę korleja.lt ir kategorijoje „Čiužiniai“ rodoma tik „Produktų nerasta“, nors ji matosi kategorijų sąraše. Jei čiužinių nebeturite, ją galima tiesiog paslėpti, tai užtrunka minutę.
+Esu Kernius Zigmantas, taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
 
-Pažiūrėjęs atidžiau pamačiau, kad svetainė veikia ant WordPress 4.9 ir WooCommerce 3.4, abiem apie aštuoneri metai. Kol kas veikia, bet saugumo pataisymų tokios versijos nebegauna, o hostingui atnaujinus PHP sena svetainė gali ir sustoti.
+Peržiūrėjau korleja.lt ir pastebėjau, kad svetainė veikia ant WordPress 4.9 ir WooCommerce 3.4, kurioms apie aštuoneri metai. Saugumo pataisymų jos nebegauna, o hostingui atnaujinus PHP gali ir sustoti. Dar kategorija „Čiužiniai“ rodo tik „Produktų nerasta“.
 
-Atnaujinčiau viską atsargiai: kopija, atnaujinimas bandomojoje versijoje, patikrinimas, ar veikia krepšelis ir apmokėjimas, tada perkėlimas. Apie 3–5 dienos, preliminariai nuo 250 € + PVM, tikslią kainą pasakysiu peržiūrėjęs.
+Atnaujinčiau viską bandomojoje kopijoje, patikrinčiau krepšelį ir apmokėjimą. Apie 3–5 dienos, preliminariai nuo 250 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt neseniai padariau naują dizainą telefonams ir sukėliau virš 200 prekių.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, o klientui e.segris.lt neseniai įdiegiau SSL ir padariau naują dizainą telefonams.
 
 Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
@@ -283,15 +285,15 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Ieškojau gėlių pristatymo Vilniuje ir užėjau į floravitas.lt. Pagrindiniame puslapyje paspaudus raudoną bloką „TIK VILNIUJE“ ar „Spalvotos Hydrangėjos VILNIUJE“, atsidaro puslapis nerastas. Tai vienas ryškiausių blokų pirmame puslapyje, todėl jį spaudžia daug žmonių.
+Mano vardas Kernius Zigmantas, tvarkau el. parduotuves ant OpenCart ir WordPress. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir jau du metus dirbu su svetainėmis tėčio įmonėje.
 
-Nuorodą galima pakeisti į esamą kategoriją, ir tai galite padaryti patys. Jei nėra kada, padaryčiau už 50 € + PVM.
+Peržiūrėjau floravitas.lt ir pastebėjau, kad pagrindiniame puslapyje raudonas blokas „TIK VILNIUJE“ atidaro „puslapis nerastas“. Be to, parduotuvė veikia ant WooCommerce 2.4 iš 2015 m., kuri nebegauna saugumo pataisymų ir anksčiau ar vėliau nustos veikti su nauja PHP.
 
-Dar pastebėjau, kad parduotuvė veikia ant WooCommerce 2.4, tai 2015 metų versija. Ji nebegauna saugumo pataisymų ir anksčiau ar vėliau nustos veikti su naujesne PHP. Atnaujinimas iš tokios senos versijos yra didesnis darbas, 1–2 savaitės, preliminariai nuo 400 € + PVM, tikslią kainą pasakysiu peržiūrėjęs viską.
+Nuorodą pataisyčiau už 50 € + PVM. Visos sistemos atnaujinimas užtruktų 1–2 savaites, preliminariai nuo 400 € + PVM, tikslią kainą pasakysiu peržiūrėjęs.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Siuvimomanija.lt anksčiau veikė ant maždaug 2010 m. OpenCart, ją atnaujinau.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija. Pusę galima mokėti prieš darbą, likutį po patikrinimo.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -310,13 +312,15 @@ Kernius Zigmantas
 ```
 Sveiki,
 
-Užėjau į geliulanka.lt ir pastebėjau, kad įvedus adresą be https svetainė atsidaro nesaugi, naršyklė rodo „Nesaugi“ ir nenukreipia į saugią versiją. Sertifikatą jūs turite, tik trūksta peradresavimo. Google tokiu atveju gali rodyti abi versijas, o pirkėjas, pamatęs „Nesaugi“ prie užsakymo formos, dažnai išeina.
+Esu Kernius Zigmantas, užsiimu el. parduotuvių taisymu ir atnaujinimu. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir turiu dvejų metų darbo patirtį tėčio įmonėje.
 
-Tai sutvarkyti nedidelis darbas, valandą ar dvi, kaina 50–80 € + PVM. Kartu pastebėjau, kad svetainė veikia ant WordPress 5.4 ir WooCommerce 3.8, tai 2019–2020 metų versijos be saugumo pataisymų. Jei norėtumėte, atnaujinčiau ir jas, pirma bandomojoje kopijoje, preliminariai nuo 250 € + PVM.
+Peržiūrėjau geliulanka.lt ir pastebėjau, kad įvedus adresą be https svetainė atsidaro kaip „Nesaugi“ ir nenukreipia į saugią versiją, nors sertifikatą turite. Dar ji veikia ant WordPress 5.4 ir WooCommerce 3.8, kurios nebegauna saugumo pataisymų.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt neseniai įdiegiau SSL ir padariau naują dizainą telefonams.
+Peradresavimą padaryčiau per valandą ar dvi už 50–80 € + PVM. Sistemos atnaujinimas bandomojoje kopijoje – preliminariai nuo 250 € + PVM.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis: pusę prieš darbą, likutį po.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, o klientui e.segris.lt neseniai įdiegiau SSL ir padariau naują dizainą telefonams.
+
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -335,15 +339,15 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Užėjau į spila.lt ir pagrindiniame puslapyje paspaudžiau dienos pasiūlymą su laikmačiu, spiruliną meduje ir tabletėmis. Atsidarė „puslapis nerastas“. Akcija su laikmačiu kaip tik skirta tam, kad žmogus spaustų iš karto, tad čia prarandami pirkėjai, kurie jau norėjo pirkti.
+Esu Kernius Zigmantas, taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
 
-Nuorodą galite pakeisti ir patys, nukreipę ją į esamą prekę. Jei nėra kada, padaryčiau už 50 € + PVM.
+Peržiūrėjau spila.lt ir pastebėjau, kad pagrindinio puslapio dienos pasiūlymas su laikmačiu atidaro „puslapis nerastas“. Akcija skirta tam, kad žmogus pirktų iš karto, tad čia prarandami pirkėjai. Dar parduotuvė veikia ant WooCommerce 3.3 iš 2018 m.
 
-Dar matau, kad parduotuvė veikia ant WooCommerce 3.3, tai 2018 metų versija be saugumo pataisymų. Ją atnaujinčiau kartu su Divi tema, pirma bandomojoje kopijoje, kad niekas nesugriūtų. Apie 3–5 dienos, preliminariai nuo 300 € + PVM, tikslią kainą pasakysiu peržiūrėjęs.
+Nuorodą pataisyčiau už 50 € + PVM. WooCommerce ir Divi atnaujinimas bandomojoje kopijoje užtruktų 3–5 dienas, preliminariai nuo 300 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, kur tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Siuvimomanija.lt anksčiau veikė ant maždaug 2010 m. OpenCart, ją atnaujinau.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -362,15 +366,15 @@ Kernius Zigmantas
 ```
 Sveiki,
 
-Žiūrėjau bitininkystės pirštines wilara.lt ir viršuje paspaudžiau „Prisijungimas“. Atsidarė klaidos puslapis „nerasta“. Nuolatiniai pirkėjai, kurie nori pažiūrėti savo užsakymus, taip prie paskyros nepatenka.
+Mano vardas Kernius Zigmantas, tvarkau el. parduotuves ant OpenCart ir WordPress. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir jau du metus dirbu su svetainėmis tėčio įmonėje.
 
-Greičiausiai mygtukas rodo į seną adresą, o WooCommerce nustatymuose „Mano paskyra“ puslapis yra kitur. Jei nerasite patys, sutvarkyčiau už 50 € + PVM.
+Peržiūrėjau wilara.lt ir pastebėjau, kad viršuje esantis mygtukas „Prisijungimas“ atidaro klaidos puslapį, tad klientai nepatenka į savo paskyrą. Be to, svetainė veikia ant WordPress 4.9 ir WooCommerce 3.1 iš 2017 m., kurios nebegauna saugumo pataisymų.
 
-Kartu pastebėjau, kad svetainė veikia ant WordPress 4.9 ir WooCommerce 3.1, tai 2017 metų versijos. Saugumo pataisymų jos nebegauna, o hostingui atnaujinus PHP gali ir nustoti veikti. Atnaujinimas su daugiakalbe dalimi užtruktų 1–2 savaites, preliminariai nuo 400 € + PVM, tikslią kainą pasakysiu peržiūrėjęs.
+Mygtuką sutvarkyčiau už 50 € + PVM. Sistemos atnaujinimas su daugiakalbe dalimi užtruktų 1–2 savaites, preliminariai nuo 400 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Siuvimomanija.lt anksčiau veikė ant maždaug 2010 m. OpenCart, ją atnaujinau.
 
-Sąskaitą faktūrą su PVM išrašome per UAB Siuvimo Manija. Pusę galima mokėti prieš darbą, likutį po patikrinimo.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -389,15 +393,15 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Žiūrėjau sodo techniką v-s.lt ir kategorijų sąraše pamačiau „Uncategorized @lt“. Paspaudus rašo, kad prekių nėra. Tai techninė WordPress kategorija, kuri pirkėjui neturėtų matytis.
+Esu Kernius Zigmantas, užsiimu el. parduotuvių taisymu ir atnaujinimu. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir turiu dvejų metų darbo patirtį tėčio įmonėje.
 
-Pastebėjau ir daugiau smulkmenų. Įvedus adresą be https svetainė atsidaro nesaugi ir nenukreipia į saugią versiją. Grandininiai pjūklai 54.0 cm³ ir 54.5 cm³ turi tą pačią nuotrauką, o traktoriuko SECO 16 Ag adrese parašyta „bs-intek-20-ag-kopijuoti“, matyt, likę po kopijavimo.
+Peržiūrėjau v-s.lt ir pastebėjau kelias smulkmenas. Kategorijų sąraše matosi techninė „Uncategorized @lt“, kuri atidaro tuščią puslapį. Pjūklai 54.0 cm³ ir 54.5 cm³ turi tą pačią nuotrauką, o įvedus adresą be https svetainė atsidaro kaip „Nesaugi“.
 
-„Uncategorized @lt“ galite paslėpti patys prekių kategorijų nustatymuose. Kitką sutvarkyčiau per 1–2 dienas, kaina 100–200 € + PVM.
+Visa tai sutvarkyčiau per 1–2 dienas, kaina 100–200 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt sukėliau virš 200 prekių su lietuviškais aprašymais ir nuotraukomis.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, o klientui e.segris.lt sukėliau virš 200 prekių su lietuviškais aprašymais ir nuotraukomis.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -416,13 +420,13 @@ Kernius Zigmantas
 ```
 Sveiki,
 
-Ieškojau stabdžių žarnelių ir užėjau į stabdziudalys.lt. Prisijungimo langas visas angliškas, „Sign in“, „Lost your password?“, „Create an Account“, ir net apsaugos klausimas „7 + ten =“. Parduotuvės puslapis Google rodomas kaip „Shop – Stabdžių dalys“, o pagrindiniame puslapyje dar matosi 2015 metų įrašai su „Uncategorized“.
+Esu Kernius Zigmantas, taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
 
-Atskirai tai smulkmenos, bet kartu jos sudaro įspūdį, kad svetainė neprižiūrima, nors prekes jūs keliate dar ir dabar.
+Peržiūrėjau stabdziudalys.lt ir pastebėjau, kad prisijungimo langas visas angliškas („Sign in“, „Lost your password?“, net „7 + ten =“), parduotuvė Google rodoma kaip „Shop – Stabdžių dalys“, o pagrindiniame puslapyje matosi 2015 m. įrašai „Uncategorized“. Kartu tai sudaro neprižiūrimos svetainės įspūdį.
 
-Dalį galite padaryti patys: WordPress nustatymuose įjungti lietuvių kalbą ir atnaujinti vertimus. Visą likusį vertimą, pavadinimus ir pagrindinį puslapį sutvarkyčiau per dieną, kaina 100–150 € + PVM.
+Vertimus, pavadinimus ir pagrindinį puslapį sutvarkyčiau per dieną, kaina 100–150 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Dėl mano SEO darbų viena iš jų Google rodosi beveik pirma.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, dėl mano SEO darbų viena iš jų Google rodosi beveik pirma.
 
 Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
@@ -443,15 +447,15 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Žiūrėjau Cube dviračius dviratininkams.lt ir pastebėjau, kad pagrindinis puslapis neturi pavadinimo, kodo eilutė <title> tuščia. Kituose puslapiuose pavadinimas baigiasi dvitaškiu be nieko, pavyzdžiui „Kontaktai : “. Būtent šį tekstą Google rodo kaip mėlyną nuorodą paieškoje, todėl dabar ten matosi atsitiktinis tekstas arba vien adresas.
+Mano vardas Kernius Zigmantas, tvarkau el. parduotuves ant OpenCart ir WordPress. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir jau du metus dirbu su svetainėmis tėčio įmonėje.
 
-Patys galite tai pataisyti SEO įskiepyje, nustatę pavadinimų šabloną, pavyzdžiui „Puslapio pavadinimas | Dviratininkams.lt“. Jei norite, kad sutvarkyčiau aš, pavadinimus ir aprašymus visai svetainei padaryčiau per dieną už 80–150 € + PVM.
+Peržiūrėjau dviratininkams.lt ir pastebėjau, kad pagrindinis puslapis neturi pavadinimo, o kitų puslapių pavadinimai baigiasi tuščiu dvitaškiu, pvz. „Kontaktai : “. Būtent šį tekstą Google rodo paieškos rezultatuose kaip nuorodą.
 
-Dar pastebėjau, kad kiekvienas dviračio dydis įkeltas kaip atskira prekė. Jei norėtumėte, galima sujungti į vieną prekę su dydžio pasirinkimu, bet tai atskiras pokalbis.
+Pavadinimus ir aprašymus visai svetainei sutvarkyčiau per dieną, kaina 80–150 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Dėl SEO darbų viena iš jų Google rodosi beveik pirma.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, dėl mano SEO darbų viena iš jų Google rodosi beveik pirma.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -470,15 +474,15 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Užėjau į ofnis.lt ir pagrindiniame puslapyje vietoj paieškos laukelio matosi tekstas „[aws_search_form]“. Tai paieškos įskiepio kodas, kuris neveikia, greičiausiai pats įskiepis išjungtas. Slaideryje paspaudus „Buzil valymo priemonės“ ir „Plačiau“, atsidaro „Puslapis nerastas“, meniu du kartus kartojasi „Paslaugos“, o kainos rodomos angliškai, „€ 5,548.00“ vietoj „5 548,00 €“.
+Esu Kernius Zigmantas, užsiimu el. parduotuvių taisymu ir atnaujinimu. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir turiu dvejų metų darbo patirtį tėčio įmonėje.
 
-Su tokia technika, kur prekės kainuoja tūkstančius, pirkėjas į tokias smulkmenas žiūri kaip į ženklą, ar įmone galima pasitikėti.
+Peržiūrėjau ofnis.lt ir pastebėjau, kad pagrindiniame puslapyje vietoj paieškos rodomas tekstas „[aws_search_form]“, slaiderio „Buzil valymo priemonės“ mygtukas atidaro „Puslapis nerastas“, meniu du kartus kartojasi „Paslaugos“, o kainos rodomos „€ 5,548.00“. Brangios technikos pirkėjas į tokias smulkmenas žiūri atidžiai.
 
-Kainų formatą galite pakeisti patys WooCommerce nustatymuose: tūkstančių skirtukas tarpas, dešimtainis kablelis. Visa kita sutvarkyčiau per 1–2 dienas, kaina 100–200 € + PVM.
+Visa tai sutvarkyčiau per 1–2 dienas, kaina 100–200 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, taip pat su kliento e.segris.lt parduotuve.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija. Pusę galima mokėti prieš darbą, likutį po patikrinimo.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -497,15 +501,15 @@ Kernius Zigmantas
 ```
 Sveiki,
 
-Žiūrėjau kabelių kanalus elmega.lt ir kompiuteryje šone pastebėjau krumpliaratį „Panel Tool“. Tai temos demonstracinis įrankis, per kurį bet kuris lankytojas gali perjungti parduotuvės spalvas į „christmas“ ar „purple“. Jis turėtų būti išjungtas, bet liko nuo temos įdiegimo.
+Esu Kernius Zigmantas, taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
 
-Be to, kelios kategorijos meniu tuščios, pavyzdžiui „Termosusitraukiantys vamzdeliai su klijais“ ir „Termosusitraukiančios pirštinės“. Dar įvedus elmega.lt be www, svetainė trumpam peršoka į nesaugią http versiją ir tik tada grįžta į https.
+Peržiūrėjau elmega.lt ir pastebėjau, kad kompiuteryje šone liko temos krumpliaratis „Panel Tool“, per kurį bet kuris lankytojas gali perjungti parduotuvės spalvas į „christmas“ ar „purple“. Dar kelios kategorijos meniu tuščios, pvz. „Termosusitraukiančios pirštinės“.
 
-Panelę galite pabandyti išjungti ir patys, temos nustatymuose. Visa tai sutvarkyčiau per pusdienį, kaina 60–120 € + PVM.
+Tai sutvarkyčiau per pusdienį, kaina 60–120 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau jos OpenCart ir WordPress parduotuves: siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, taip pat su kliento e.segris.lt parduotuve.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -524,13 +528,13 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Žiūrėjau gyvūnų prekes viskaszoo.lt ir meniu „Egzotiniams gyvūnams“ beveik visos kategorijos tuščios: „Apšvietimas“, „Šildymas“, „Maistas“, „Vitaminai ir mineralai“ rodo „Šioje kategorijoje nėra prekių“. Tas pats su „Skanėstai paukščiams“ ir „Vandens priežiūros priemonės“ žuvims, iš viso radau devynias tokias. Žmogus, kelis kartus atsidaręs tuščią puslapį, dažniausiai nebeieško toliau.
+Mano vardas Kernius Zigmantas, tvarkau el. parduotuves ant OpenCart ir WordPress. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir jau du metus dirbu su svetainėmis tėčio įmonėje.
 
-Dar įvedus adresą be https svetainė atsidaro nesaugi ir nenukreipia į saugią versiją.
+Peržiūrėjau viskaszoo.lt ir pastebėjau, kad meniu „Egzotiniams gyvūnams“ beveik visos kategorijos tuščios: „Apšvietimas“, „Šildymas“, „Maistas“ rodo „Šioje kategorijoje nėra prekių“. Iš viso radau devynias tokias. Dar įvedus adresą be https svetainė atsidaro kaip „Nesaugi“.
 
-Tuščias kategorijas galite patys išjungti administravime arba paslėpti Journal temos nustatymuose. Jei norite, kad padaryčiau aš, kartu su https peradresavimu ir meniu nuorodų sutvarkymu, tai pusdienio darbas, kaina 60–120 € + PVM.
+Meniu ir peradresavimą į https sutvarkyčiau per pusdienį, kaina 60–120 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, taip pat su kliento e.segris.lt parduotuve.
 
 Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
@@ -551,15 +555,15 @@ Kernius Zigmantas
 ```
 Sveiki,
 
-Žiūrėjau šilumos siurblius sildymasjums.lt ir atkreipiau dėmesį į nuorodas. Lietuviškos raidės jose ne pakeistos, o tiesiog išmestos: „Vonios įranga“ tapo /vonios-ranga, „Montavimo priedai šilumos siurbliams“ tapo /montavimo-priedai-ilumos-siurbliams, „dūmtraukiai“ tapo „dmtraukiai“. Google iš adreso irgi supranta, apie ką puslapis, tad tokie žodžiai paieškai nepadeda.
+Esu Kernius Zigmantas, užsiimu el. parduotuvių taisymu ir atnaujinimu. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir turiu dvejų metų darbo patirtį tėčio įmonėje.
 
-Dar kelios kategorijos meniu tuščios, pavyzdžiui „Izoliacinės plokštės“ ir „Vamzdžiai šildymui-vandentiekiui“, o įvedus adresą be https svetainė atsidaro nesaugi.
+Peržiūrėjau sildymasjums.lt ir pastebėjau, kad nuorodose lietuviškos raidės tiesiog išmestos: „Vonios įranga“ tapo /vonios-ranga, „dūmtraukiai“ tapo „dmtraukiai“. Tai blogina paiešką Google. Dar kelios kategorijos tuščios, o be https svetainė atsidaro kaip „Nesaugi“.
 
-Tuščias kategorijas galite išjungti patys administravime. Adresus perrašyčiau teisingai ir nuo senų nustatyčiau peradresavimus, kad nedingtų tai, kas jau surinkta Google. Kartu su https 1–2 dienos, kaina 100–200 € + PVM.
+Adresus perrašyčiau su peradresavimais nuo senų, kad nedingtų tai, ką Google jau surinko. Kartu su kitais dalykais 1–2 dienos, kaina 100–200 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Dėl SEO darbų viena iš jų Google rodosi beveik pirma.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, dėl mano SEO darbų viena iš jų Google rodosi beveik pirma.
 
-Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
@@ -578,13 +582,13 @@ Kernius Zigmantas
 ```
 Laba diena,
 
-Žiūrėjau baldų kolekcijas balduideja.lt ir meniu paspaudus „Nature“ arba „Mango“ atsidaro „Kategorija nerasta!“. „Atelie“, „Roma“, „Mestre“ ir „Čiužiniai“ atsidaro, bet tušti. Dar meniu nuorodos įrašytos su http, todėl paspaudus jas lankytojas iš saugios versijos numetamas į nesaugią, su užrašu „Nesaugi“.
+Esu Kernius Zigmantas, taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
 
-Baldai brangus pirkinys, ir prieš pirkdamas žmogus svetainėje praleidžia daug laiko, tad tokios vietos krenta į akis.
+Peržiūrėjau balduideja.lt ir pastebėjau, kad meniu kolekcijos „Nature“ ir „Mango“ atidaro „Kategorija nerasta!“, o „Atelie“ ir „Čiužiniai“ tušti. Dar meniu nuorodos veda į nesaugią http versiją. Baldai brangus pirkinys, tad tokios vietos krenta į akis.
 
-Tuščias kategorijas galite išjungti patys administravime. Meniu, peradresavimą į https ir kainų formatą, kad būtų „1 890,00 €“, o ne „1,890.00 €“, sutvarkyčiau per dieną, kaina 80–150 € + PVM.
+Meniu, peradresavimą į https ir kainų formatą sutvarkyčiau per dieną, kaina 80–150 € + PVM.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Klientui e.segris.lt neseniai padariau naują dizainą, pritaikytą telefonams.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, o klientui e.segris.lt neseniai įdiegiau SSL ir padariau naują dizainą telefonams.
 
 Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
 
@@ -605,13 +609,15 @@ Kernius Zigmantas
 ```
 Sveiki,
 
-Žiūrėjau raštinės prekes senora.lt ir pastebėjau, kad nemažai temos tekstų liko angliškai. Tuščiame krepšelyje rašo „It's never too late to fix it :)“, apačioje naujienlaiškio blokas „Subscribe to our newsletter“, prie paieškos „Everywhere“, o viršuje „Wishlist“ ir „Compare“. Didžiajai daliai pirkėjų tai nieko nesugadina, bet kai kam tai atrodo keistai.
+Mano vardas Kernius Zigmantas, tvarkau el. parduotuves ant OpenCart ir WordPress. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir jau du metus dirbu su svetainėmis tėčio įmonėje.
 
-Dalį frazių galima išversti per OpenCart kalbos failus, bet temos tekstai dažnai būna įrašyti pačiuose šablonuose, todėl juos reikia rasti rankiniu būdu. Išversčiau viską ir patikrinčiau visus puslapius per pusdienį, kaina 50–100 € + PVM.
+Peržiūrėjau senora.lt ir pastebėjau, kad nemažai temos tekstų liko angliškai: tuščiame krepšelyje rašo „It's never too late to fix it :)“, apačioje „Subscribe to our newsletter“, viršuje „Wishlist“ ir „Compare“.
 
-Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos svetainių programavimo kursus ir du metus dirbu tėčio įmonėje, tvarkau jos OpenCart ir WordPress parduotuves: siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+Išversčiau viską ir patikrinčiau visus puslapius per pusdienį, kaina 50–100 € + PVM.
 
-Sąskaitą faktūrą su PVM išrašome per UAB Siuvimo Manija. Pusę galima mokėti prieš darbą, likutį po patikrinimo.
+Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, taip pat su kliento e.segris.lt parduotuve.
+
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 
