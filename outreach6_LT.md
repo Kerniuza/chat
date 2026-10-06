@@ -17,11 +17,13 @@ Laba diena,
 
 Esu Kernius Zigmantas, taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu jaunas, bet baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
 
-Peržiūrėjau pyramis.lt ir pastebėjau, kad sertifikatas pasibaigęs, todėl naršyklė rodo „Nesaugi“, o prisijungimo slaptažodis siunčiamas nešifruotai. Dalis pirkėjų dėl to išeina, o Google tokias svetaines rodo žemiau.
+Peržiūrėjau pyramis.lt ir pastebėjau, kad svetainės SSL sertifikatas pasibaigęs. Kas atidaro svetainę per https, tam naršyklė vietoj parduotuvės parodo įspėjimą, kad ryšys nesaugus, ir dauguma žmonių tada tiesiog uždaro langą. Per paprastą http adresą svetainė atsidaro, bet prie adreso rašoma „Nesaugi“, o paskyros prisijungimo slaptažodis siunčiamas nešifruotas. Google tokias svetaines irgi rodo žemiau paieškoje.
 
-Įdiegčiau naują sertifikatą ir nukreipčiau visą svetainę į https per dieną, kaina 80–120 € + PVM.
+Įdiegčiau naują, automatiškai atsinaujinantį sertifikatą ir nukreipčiau visą svetainę į https. Tai viena diena, kaina 80–120 € + PVM.
 
-Esu dirbęs su siuvimomanija.lt, husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv, o klientui e.segris.lt (irgi OpenCart 1.5) padariau naują dizainą telefonams ir SSL. Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
+Ką esu padaręs: siuvimomanija.lt – atnaujinau seną OpenCart ir automatinį siuntimo kainos skaičiavimą, e.segris.lt – naujas dizainas telefonams, SSL ir virš 200 prekių. Taip pat prižiūriu husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv.
+
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, pusę mokate prieš darbą, pusę po.
 
 Jei norėtumėte dar ko nors, parašykite: darau ir SEO, prekių sukėlimą iš tiekėjų failų, dizaino atnaujinimą, mokėjimų ir siuntimo prijungimą.
 
