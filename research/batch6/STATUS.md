@@ -14,9 +14,8 @@ Paskutinis atnaujinimas: 2026-10-06 ~09:40 UTC
 - [x] Agentas B (gyvūnai, baldai, elektronika, santechnika) — `cand_B.md`, 9 kandidatai.
 - [x] 23 laiškai parašyti `outreach6_LT.md` (big 14, quick 9); pagrindiniai trūkumai patikrinti 3-ią kartą ~09:20 UTC.
 - [x] Laiško struktūra patvirtinta (pyramis.lt pavyzdys, ~100–120 ž., JA/SiteSolvo minimas); pritaikyta visiems 23 (`tools/apply_template.py` + `research/batch6/email_parts.py`).
-- [ ] Agentas D (sonnet): papildomi kandidatai su 250–350 € darbu → `research/batch6/cand_D.md`.
+- [x] Agentas D (sonnet): rado 3, tinka 1 (laptop.lt) → pridėtas. Iš viso 24 laiškai, PARUOŠTA SIUNTIMUI.
 
 ## Kitas žingsnis
-1. Kai agentas D baigs: parašyti jo kandidatų laiškus pagal patvirtintą šabloną (pridėti į email_parts + outreach6_LT.md), max 30 laiškų per dieną.
 2. Prieš siuntimą: pilnas `outreach_tracking.csv` iš Mac + GMAIL_ADDRESS / GMAIL_APP_PASSWORD aplinkoje. Pranešti vartotojui, kai pasiruošta.
 3. Gavus „siųsk“: dry run → `--send` → commit+push CSV.

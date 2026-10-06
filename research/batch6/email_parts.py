@@ -66,4 +66,7 @@ D = {
 "senora.lt": ("50–100 € + PVM",
  "Pastebėjau, kad senora.lt nemažai tekstų liko angliškai: tuščiame krepšelyje rašo „It's never too late to fix it :)“, apačioje „Subscribe to our newsletter“, viršuje „Wishlist“ ir „Compare“.",
  "Siūlau išversti viską ir patikrinti visus puslapius. Darbas užtruktų pusdienį, kaina 50–100 € + PVM."),
+"laptop.lt": ("250–350 € + PVM",
+ "Pastebėjau, kad laptop.lt pirkėjas mato daug angliškų užrašų: „Add to cart“, „Sort by“, „Shopping cart“, „Related products“. Filtre rodoma techninė kategorija „Uncategorized“, o Acer kategorija tuščia. Lietuviškoje parduotuvėje tai atrodo nebaigta ir mažina pasitikėjimą.",
+ "Siūlau išversti visą pirkėjo matomą dalį, sutvarkyti kategorijas ir saugiai atnaujinti WooCommerce, kuris atsilieka keleriais metais. Darbas užtruktų 3–5 dienas, kaina 250–350 € + PVM."),
 }

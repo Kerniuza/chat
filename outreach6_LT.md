@@ -624,6 +624,33 @@ Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
 Kernius Zigmantas
 ```
 
-Iš viso: 23 laiškai (big: 14, quick: 9)
+## laptop.lt
+- Platforma: WooCommerce 6.4.1 / WordPress 7.0.6 (generator), tema Woodmart
+- Kategorija: big
+- El. paštas: info@laptop.lt
+- Įrodymai: https://laptop.lt/ → 36× „Add to cart“; kategorijose „Showing 1–12 of 22 results“, „Sort by…“, „Shopping cart“; prekėje „Related products“; filtre „Uncategorized“; https://laptop.lt/product-category/atnaujinti-ir-naudoti-nesiojamieji-kompiuteriai/acer-atnaujinti-ir-naudoti-nesiojamieji-kompiuteriai/ → „No products were found matching your selection.“ (agentas 11:24 ir 11:28 UTC, pagrindinis patikrinta dar kartą ~11:50). Žr. cand_D.md.
+- Trūkumas: neišversta parduotuvės sąsaja, „Uncategorized“ ir tuščia Acer kategorija, WooCommerce 6.4 (2022)
+- Kaina laiške: 250–350 € + PVM
+- Tema: laptop.lt: parduotuvėje mygtukai angliškai („Add to cart“)
+- Laiškas:
+```
+Laba diena,
+
+Esu Kernius Zigmantas. Junior Achievement mokinių programoje kuriu savo startuolį SiteSolvo – taisau ir atnaujinu el. parduotuves ant WordPress ir OpenCart. Esu baigęs KTU Jaunųjų kompiuterininkų mokyklos programavimo kursus ir du metus dirbu tėčio įmonėje.
+
+Pastebėjau, kad laptop.lt pirkėjas mato daug angliškų užrašų: „Add to cart“, „Sort by“, „Shopping cart“, „Related products“. Filtre rodoma techninė kategorija „Uncategorized“, o Acer kategorija tuščia. Lietuviškoje parduotuvėje tai atrodo nebaigta ir mažina pasitikėjimą.
+
+Siūlau išversti visą pirkėjo matomą dalį, sutvarkyti kategorijas ir saugiai atnaujinti WooCommerce, kuris atsilieka keleriais metais. Darbas užtruktų 3–5 dienas, kaina 250–350 € + PVM.
+
+Esu atnaujinęs siuvimomanija.lt, e.segris.lt padaręs naują dizainą ir SSL, prižiūriu husqvarna-viking.lt, babylock.lt, elna.lt, siuvimomasina.lt ir juki.lv. Darau ir SEO, prekių kėlimą, dizaino atnaujinimą.
+
+Sąskaitą su PVM išrašome per UAB Siuvimo Manija, mokėti galima dalimis.
+
+Jei neaktualu, tiesiog ignoruokite – daugiau nerašysiu.
+
+Kernius Zigmantas
+```
+
+Iš viso: 24 laiškai (big: 15, quick: 9)
 
 Rezervas (nesiųsti be vartotojo sprendimo): motogama.lt (svetainė su temos demo prekėmis ir neveikiančiu HTTPS — tikrų prekių nėra), kamtojabaldai.lt (katalogas ir krepšelis 404, kainų nematyti), zookatalogas.lt (nurodytas el. paštas neveikiančiame domene), natureselement.lt (tik http peradresavimas — per maža).
