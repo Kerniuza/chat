@@ -208,6 +208,21 @@ LV/EE versijos skiriasi tik: šalies kodas, kalba (LANGUAGE: emails in ENGLISH),
 
 ---
 
+## 6a. Modelių parinkimas ir tokenų taupymas (vartotojo sprendimas 2026-10-06)
+
+Kiekvienam darbui rinktis pigiausią modelį, kuris jį atlieka beveik taip pat gerai kaip Opus. Agent tool'ui visada nurodyti `model` parametrą:
+- **haiku** — mechaninis darbas: `tools/check_site.py` paleidimas sąrašui domenų ir JSON filtravimas, el. pašto ištraukimas, CSV papildymas, DNC sąrašo palyginimas, failų kopijavimas.
+- **sonnet** — kandidatų paieška ir trūkumų verifikacija (WebSearch + curl/python), įrodymų rinkimas į `cand_*.md`. Tai didžiausia tokenų dalis — čia taupymas didžiausias.
+- **opus** (pagrindinė sesija, ne agentas) — laiškų rašymas (tonas = konversija), kainos parinkimas, galutinė įrodymų peržiūra prieš rodant vartotojui, atsakymai klientams (Dmitry, Segris).
+
+Kiti taupymo būdai:
+- Pirmas filtras visada `python3 tools/check_site.py dom1.lt dom2.lt ...` (HTTPS/sertifikatas, platforma, jQuery, viewport, copyright, PHP klaidos, angliški tekstai, el. paštai, įskaitant Cloudflare) — vienas kompaktiškas JSON vietoj dešimčių curl komandų ir pilno HTML skaitymo. Rankiniu būdu tikrinti tik tai, kas pateks į laišką.
+- Niekada nespausdinti viso HTML į kontekstą — tik `grep -o`/python ištraukas.
+- Agentai rezultatus rašo į failą, o galutiniame atsakyme grąžina tik 5–10 eilučių suvestinę.
+- Agentų promptuose nekartoti viso CLAUDE.md — tik kriterijai ir exclude sąrašas.
+- WebSearch `mode: "standard"`, ne extended, nebent standard nieko neranda.
+- Vartotojui rodyti suvestinę + 2–3 pavyzdžius, ne visus juodraščius pokalbyje (jie faile).
+
 ## 7. Atviri klausimai vartotojui (paklausti, kai aktualu, ne spėti)
 
 1. Ką konkrečiai reiškia "optimizuoti" laiškų siuntinėjimą — didesnį apimtį (daugiau/dieną), didesnį atsakymų rodiklį (geresnis targeting/tekstas), ar mažiau rankinio darbo (labiau automatizuota drafting/sending)? (Paskutinė vartotojo žinutė šito neapibrėžia.)
