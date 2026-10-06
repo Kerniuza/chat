@@ -38,6 +38,13 @@ Vartotojas pakeitė outreach strategiją (LT partijos nuo #6):
 - Atsakymus gavus — nieko nesiųsti pačiam, parodyti vartotojui su atsakymo juodraščiu. Prašantiems nebe rašyti — CSV status `do_not_contact`.
 - Siuntimo scriptas: `mac_bundle/send_batch_lt.py` (dry run be `--send`, DNC tikrinimas iš CSV, CSV papildymas).
 
+## Ryšio problemos ir „tęsk“ (vartotojo taisyklė 2026-10-06)
+
+- Jei matosi, kad dingsta internetas / ryšys blogas (curl į kelias skirtingas svetaines nepavyksta, `$HTTPS_PROXY/__agentproxy/status` `recentRelayFailures` daug skirtingų hostų, agentai miršta su ECONNRESET) — **sustabdyti viską** (TaskStop agentams), išsaugoti progresą, commit+push, ir pasakyti vartotojui.
+- Pavienis vienos svetainės blokas (pvz. 1551.lt rate-limit) NĖRA ryšio problema.
+- Progresas visada laikomas `research/batch<N>/STATUS.md` (atlikta / kitas žingsnis) ir push'inamas po kiekvieno žingsnio.
+- Vartotojui parašius **„tęsk“** — perskaityti naujausią `research/batch*/STATUS.md` ir tęsti nuo „Kitas žingsnis“.
+
 ## 0. Kas parduodama (SiteSolvo)
 
 Svetainių **tobulinimo** paslaugos esamiems e-shopams — NE naujų svetainių kūrimas nuo nulio:
