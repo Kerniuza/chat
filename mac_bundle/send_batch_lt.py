@@ -4,6 +4,7 @@
 Naudojimas (is repo saknies):
     python3 mac_bundle/send_batch_lt.py outreach6_LT.md            # tik perziura (dry run)
     python3 mac_bundle/send_batch_lt.py outreach6_LT.md --send     # tikras siuntimas
+    ... --csv /kelias/iki/outreach_tracking.csv                     # kitas CSV failas
 
 Prisijungimas imamas TIK is aplinkos kintamuju GMAIL_ADDRESS ir GMAIL_APP_PASSWORD.
 Pries siunciant patikrina do-not-contact sarasa is outreach_tracking.csv.
@@ -76,6 +77,9 @@ def main():
         sys.exit("Nurodyk juodrasciu faila, pvz. outreach6_LT.md")
     drafts_path = sys.argv[1]
     do_send = "--send" in sys.argv
+    global CSV_PATH
+    if "--csv" in sys.argv:
+        CSV_PATH = sys.argv[sys.argv.index("--csv") + 1]
     batch = re.search(r"outreach(\d+)", drafts_path)
     batch = batch.group(1) if batch else "?"
 

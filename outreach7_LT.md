@@ -141,7 +141,7 @@ Kernius Zigmantas
 - Platforma: WooCommerce / WordPress 5.5.22 (generator)
 - Kategorija: quick
 - El. paštas: info@ofnis.lt
-- Įrodymai: „[aws_search_form]“ pagrindiniame; slaiderio Buzil → /product-category/buzil-valymo-priemones/ekologines-valymo-priemones/ 404; meniu „PASLAUGOS“ ×2; kainos „€ 5,548.00“. Žr. research/batch6/cand_A.md. PRIEŠ SIUNČIANT PATIKRINTI DAR KARTĄ.
+- Įrodymai: „[aws_search_form]“ pagrindiniame; slaiderio Buzil → /product-category/buzil-valymo-priemones/ekologines-valymo-priemones/ 404; meniu „PASLAUGOS“ ×2; kainos „€ 5,548.00“. Žr. research/batch6/cand_A.md. Patikrinta dar kartą 2026-10-06 (vėlai) — tebegalioja.
 - Trūkumas: neveikianti paieška, 404 slaideryje, dubliuotas meniu, kainų formatas
 - Kaina laiške: 100–200 € + PVM
 - Tema: ofnis.lt: vietoj paieškos rodomas „[aws_search_form]“
@@ -168,7 +168,7 @@ Kernius Zigmantas
 - Platforma: OpenCart 2.x (jQuery 2.1.1, tema lexus_megashop)
 - Kategorija: quick
 - El. paštas: info@elmega.lt
-- Įrodymai: „Panel Tool“ (#pav-paneltool) kiekviename puslapyje; tuščios path=106, 107, 102. Žr. research/batch6/cand_B.md. PRIEŠ SIUNČIANT PATIKRINTI DAR KARTĄ.
+- Įrodymai: „Panel Tool“ (#pav-paneltool) kiekviename puslapyje; tuščios path=106, 107, 102. Žr. research/batch6/cand_B.md. Patikrinta dar kartą 2026-10-06 (vėlai) — tebegalioja.
 - Trūkumas: paliktas temos Panel Tool, tuščios kategorijos
 - Kaina laiške: 60–120 € + PVM
 - Tema: elmega.lt: šone liko temos nustatymų krumpliaratis
@@ -222,7 +222,7 @@ Kernius Zigmantas
 - Platforma: OpenCart 2.x (jQuery 2.1.1)
 - Kategorija: quick
 - El. paštas: info@ortopedineskuprines.lt
-- Įrodymai: https → curl (60) ssl_verify=20 (pakartota); agentas: sertifikatas CN=*.serveriai.lt; http://ortopedineskuprines.lt/ → 200 be peradresavimo; prisijungimo forma action=http://. PRIEŠ SIUNČIANT PATIKRINTI NARŠYKLE (https įspėjimas).
+- Įrodymai: https → curl (60) ssl_verify=20 (pakartota); agentas: sertifikatas CN=*.serveriai.lt; http://ortopedineskuprines.lt/ → 200 be peradresavimo; prisijungimo forma action=http://. http be peradresavimo patikrinta dar kartą; https įspėjimą rekomenduojama pamatyti naršyklėje.
 - Trūkumas: sertifikatas ne domenui, http be peradresavimo, prisijungimas per http
 - Kaina laiške: 80–120 € + PVM
 - Tema: ortopedineskuprines.lt: naršyklė rodo, kad svetainė nesaugi
